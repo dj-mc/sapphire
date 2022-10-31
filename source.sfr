@@ -1,1 +1,3 @@
-def () 1 end
+def foo(x,y,z)
+    goo(a,b,c)
+end
